@@ -1,5 +1,5 @@
 ## Meme-Generator - Frontend
-![image](https://github.com/muhammadabir64/meme-generator-frontend/assets/51321911/a1433109-36e0-4cc6-8f81-db698ed887e4)
+![image](https://github.com/muhammadabir64/meme-generator-frontend/assets/51321911/d3ac8f97-3386-4a26-93ae-d582f945507e)
 
 The Meme Generator app, powered by React, Flask, and Firebase Authentication, offers users a simple yet powerful meme creation experience. Search for images with Pixabay, then customize memes in a Canva-like editor. Adjust text, colors, and positions, add backgrounds, padding, and overlay effects. Secure logins with Firebase Authentication. Create, save, and export personalized memes effortlessly. Turn ordinary images into shareable, hilarious memes with ease!
 
