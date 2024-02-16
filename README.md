@@ -38,7 +38,7 @@ const firebaseConfig = {
     appId: ""
 };
 ```
-6. Start the server:
+5. Start the server:
 ```
 npm start
 ```
